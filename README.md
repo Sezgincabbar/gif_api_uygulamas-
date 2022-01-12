@@ -1,4 +1,6 @@
 # gif_api_uygulamasi
+![image](https://user-images.githubusercontent.com/95128154/149183444-c0bc7080-2c06-4ff2-a6c3-0538caa29267.png)
+
 
 A new Flutter project.
 
